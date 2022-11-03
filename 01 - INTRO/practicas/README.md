@@ -27,7 +27,7 @@ Descripción:
   - [Toma de requerimientos pdf](./Requerimientos.pdf)
   - [Persona Buyer](./2.-persona.pdf)
   - [Publico objetivo](./PublicoObjetivo.png)
-  - [Wireframe Ux]
+  - [Wireframe Ux](./4.-wireframe%20solucion.md)
   - [Diseno de UI]
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
