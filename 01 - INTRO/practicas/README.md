@@ -25,8 +25,8 @@ Descripción:
 
 - **RESOLUCIONES**
   - [Toma de requerimientos pdf](./Requerimientos.pdf)
-  - [Persona Buyer]
-  - [Publico objetivo]
+  - [Persona Buyer](./2.-persona.pdf)
+  - [Publico objetivo](./PublicoObjetivo.png)
   - [Wireframe Ux]
   - [Diseno de UI]
 
