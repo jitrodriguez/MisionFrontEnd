@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nueva demanda</title>
+    <link rel="icon" href="./logo.png">
+    <link rel="stylesheet" href="./normalize.css">
+    <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="./nueva-demanda.css">
+</head>
+
+<body>
+    <section>
+        <nav class='nav-bar'>
+            <a href='./index.html' class='logo'>
+                <img width='50px' src='./logo.png' />
+                <p>Abogabot</p>
+            </a>
+            <div class='nav-items'>
+                <a href='#' class='nav-item'>Nosotros</a>
+                <a href='#' class='nav-item'>Cont&aacute;ctanos</a>
+                <a href='#' class='nav-item inicio-sesion'>Iniciar sesi&oacute;n / Registrarse</a>
+            </div>
+        </nav>
+        <div class='contenido-principal'>
+            <div class='mascota'>
+                <object data="./pet.svg" width='100px'></object>
+            </div>
+            <form action="" class='formulario'>
+                <p><b>Demandate:</b></p>
+                <div class='form-row'>
+                    <input class='form-item' type="text" placeholder='Nombres'>
+                    <input type="text" placeholder='Apellidos'>
+                </div>
+                <div class='form-row'>
+                    <input type="email" name="email" id="email" placeholder='Correo electrónico'>
+                </div>
+                <div class='form-row'>
+                    <input type="number" name="dni" id="dni" placeholder='DNI'>
+                    <input type="text" name='ciudad' id='ciudad' placeholder='Ciudad'>
+                </div>
+                <div class='form-row'>
+                    <input type="text" name="distrito" id="distrito" placeholder='Distrito'>
+                </div class='form-row'>
+                <div class='form-row'>
+                    <input type="text" name="direccion" id="direccion" placeholder='Dirección'>
+                </div>
+                <div class='form-row form-files'>
+                    <label for="file">Archivos de prueba</label>
+                    <input type="file" name="file" id="file" placeholder='Archivos de prueba'>
+                </div>
+                <p><b>Demandado:</b></p>
+                <div class='form-row'>
+                    <input type="text" placeholder='Nombres'>
+                    <input type="text" placeholder='Apellidos'>
+                </div>
+                <div class='form-row'>
+                    <input type="email" name="email" id="email" placeholder='Correo electrónico'>
+                </div>
+                <div class='form-row'>
+                    <input type="number" name="dni" id="dni" placeholder='DNI'>
+                    <input type="text" name='ciudad' id='ciudad' placeholder='Ciudad'>
+                </div>
+                <div class='form-row'>
+                    <input type="text" name="distrito" id="distrito" placeholder='Distrito'>
+                </div>
+                <div class='form-row'>
+                    <input type="text" name="direccion" id="direccion" placeholder='Dirección'>
+                </div>
+                <button class='boton' onclick=''>Enviar demanda</button>
+            </form>
+        </div>
+    </section>
+    <footer>
+        <div>
+            <a href="#">Nosotros</a>
+            <a href="#">Cont&aacute;ctanos</a>
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+        </div>
+        <p>Copyrigth &copy; Abogabot 2022</p>
+    </footer>
+</body>
+<script src="./nueva-demanda.js"></script>
+
+</html>
