@@ -40,7 +40,8 @@ En caso de que te quede corto el ejercicio siguele con esto!
 
 ## Entrega
 
-[Link de entrega](./index.html)
+[Link de entrega HTML](./index.html)
+[Link de entrega en hosting](https://abogabot-html.vercel.app/)
 
 ## El 4 de Noviembre se subirá el Form para que entreguen las prácticas.
 
