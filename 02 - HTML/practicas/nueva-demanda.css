@@ -1,0 +1,38 @@
+.boton {
+  margin: 1rem;
+}
+.contenido-principal {
+  display: flex;
+  flex-direction: column-reverse;
+  width: 100vw;
+}
+.contenido-principal > form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 0.5rem;
+}
+.form-row {
+  display: flex;
+  width: 100%;
+}
+.form-row > input {
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  width: auto;
+  width: 100%;
+  border: 0.05rem solid var(--azul-marino);
+  text-align: center;
+  border-radius: 0.5rem;
+}
+.form-files {
+  flex-direction: column;
+  display: flex;
+  width: auto;
+}
+@media only screen and (min-width: 768px) {
+  .contenido-principal {
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+}
