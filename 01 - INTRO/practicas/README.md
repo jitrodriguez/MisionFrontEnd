@@ -28,7 +28,7 @@ Descripción:
   - [Persona Buyer](./2.-persona.pdf)
   - [Publico objetivo](./PublicoObjetivo.png)
   - [Wireframe Ux](./4.-wireframe%20solucion.md)
-  - [Diseno de UI]
+  - [Diseno de UI](./ui.pdf)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
