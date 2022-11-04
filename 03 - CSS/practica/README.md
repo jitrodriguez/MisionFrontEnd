@@ -22,7 +22,7 @@ Bonus:
 ## Entrega
 
 [Link de entrega](./../../02%20-%20HTML/practicas/index.html)
-
+[Link de entrega en hosting](https://abogabot-html.vercel.app/)
 **_¡Vámonos hasta el espacio y más allá Explorers!_**
 
 [Volver &ldca;](/03%20-%20CSS/README.md 'Regresar a página anterior')
